@@ -3,6 +3,9 @@
 #if 1
 /* compile normally and using O3 option see the difference */
 
+
+
+
 void func (int * restrict ptra, int *restrict ptrb, int *restrict ptrc);
 
 int main (void)
